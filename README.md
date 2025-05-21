@@ -1,5 +1,5 @@
-# feetcode
-Leetcode for FrontEnd
+# feetcode 👣
+Leetcode for FrontEnd 
 
 ## FE Interview Kit
 https://www.linkedin.com/feed/update/urn:li:activity:7330824884316504066/:
