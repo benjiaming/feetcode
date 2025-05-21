@@ -24,7 +24,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:7330824884316504066/:
 | Flatten         | https://lnkd.in/gQuh7JuE                     | [solution](./src/flatten/flatten.ts)      |
 | Throttle        | https://lnkd.in/g-528va2                     | [solution](./src/throttle/throttle.ts)    |
 | Promise.all     | https://lnkd.in/gHxEydem                     | [solution](./src/promise-all/promise-all.ts)|
-| Deep Clone      | https://lnkd.in/g5Bn2wMV                     |                                           |
+| Deep Clone      | https://lnkd.in/g5Bn2wMV                     | [solution](./src/deep-clone/deep-clone.ts)|
 | Event Emitter   | https://lnkd.in/gnfc3WtW                     |                                           |
 | Map Async Limit | https://lnkd.in/gMtk8qrq                     |                                           |
 | Deep Equal      | https://lnkd.in/gq4psMYF                     |                                           |
