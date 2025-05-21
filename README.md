@@ -22,7 +22,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:7330824884316504066/:
 | Debounce        | https://lnkd.in/gs-f9jcP                     | [solution](./src/debounce/debounce.ts)    |
 | Classnames      | https://lnkd.in/gtqadcR4                     | [solution](./src/classnames/classnames.ts)|
 | Flatten         | https://lnkd.in/gQuh7JuE                     | [solution](./src/flatten/flatten.ts)      |
-| Throttle        | https://lnkd.in/g-528va2                     |                                           |
+| Throttle        | https://lnkd.in/g-528va2                     | [solution](./src/throttle/throttle.ts)    |
 | Promise.all     | https://lnkd.in/gHxEydem                     |                                           |
 | Deep Clone      | https://lnkd.in/g5Bn2wMV                     |                                           |
 | Event Emitter   | https://lnkd.in/gnfc3WtW                     |                                           |
