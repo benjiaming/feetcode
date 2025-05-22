@@ -1,5 +1,7 @@
 # feetcode 👣
 Leetcode for FrontEnd 
+https://github.com/benjiaming/feetcode/actions/workflows/node.js/badge.svg
+
 
 ## FE Interview Kit
 Adapted from https://www.linkedin.com/feed/update/urn:li:activity:7330824884316504066/:
