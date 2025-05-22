@@ -37,18 +37,19 @@ Adapted from https://www.linkedin.com/feed/update/urn:li:activity:73308248843165
 
 ### Most important React questions:
 
-- Todo List: https://lnkd.in/gaZ6NJmd
-- Contact Form: https://lnkd.in/gtNHef6T
-- Job Board: https://lnkd.in/giHeiXh2
-- Accordion: https://lnkd.in/gSZYFQA5
-- Image Carousel: https://lnkd.in/gnxWuVxe
-- Data Table: https://lnkd.in/gwfqzfm6
-- File Explorer: https://lnkd.in/gU898hpr
-- Tic-tac-toe: https://lnkd.in/gc7upPZS
-- Nested Checkboxes: https://lnkd.in/gfgtJHue
-
+| Topic           | Description                                  | Solution                                  |
+|-------------------|---------------------------------------------------|-------------------|
+| Todo List         | [question](https://www.greatfrontend.com/questions/user-interface/todo-list/react?framework=react)                  |                   |
+| Contact Form      | [question](https://lnkd.in/gtNHef6T)                  |                   |
+| Job Board         | [question](https://lnkd.in/giHeiXh2)                  |                   |
+| Accordion         | [question](https://lnkd.in/gSZYFQA5)                  |                   |
+| Image Carousel    | [question](https://lnkd.in/gnxWuVxe)                  |                   |
+| Data Table        | [question](https://lnkd.in/gwfqzfm6)                  |                   |
+| File Explorer     | [question](https://lnkd.in/gU898hpr)                  |                   |
+| Tic-tac-toe       | [question](https://lnkd.in/gc7upPZS)                  |                   |
+| Nested Checkboxes | [question](https://lnkd.in/gfgtJHue)                  |                   |
 ## Run demos and test
 
-Run: `npx bun src/debounce/debounce-demo.ts`
+Run: `npx bun src/javascript/debounce/debounce-demo.ts`
 
 Test: `npm test`
