@@ -2,7 +2,7 @@
 Leetcode for FrontEnd 
 
 ## FE Interview Kit
-https://www.linkedin.com/feed/update/urn:li:activity:7330824884316504066/:
+Adapted from https://www.linkedin.com/feed/update/urn:li:activity:7330824884316504066/:
 
 ### Most important concepts to know:
 
