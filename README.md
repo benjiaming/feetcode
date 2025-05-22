@@ -1,5 +1,5 @@
 # feetcode 👣
-[Leetcode for FrontEnd](https://github.com/benjiaming/feetcode/actions/workflows/node.js/badge.svg)
+[Leetcode for FrontEnd](https://github.com/benjiaming/feetcode/actions/workflows/node.js.yml/badge.svg)
 
 
 ## FE Interview Kit
