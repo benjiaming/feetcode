@@ -19,13 +19,13 @@ https://www.linkedin.com/feed/update/urn:li:activity:7330824884316504066/:
 
 | Topic           | Description                                  | Solution                                  |
 |-----------------|----------------------------------------------|-------------------------------------------|
-| Debounce        | https://lnkd.in/gs-f9jcP                     | [solution](./src/debounce/debounce.ts)    |
-| Classnames      | https://lnkd.in/gtqadcR4                     | [solution](./src/classnames/classnames.ts)|
-| Flatten         | https://lnkd.in/gQuh7JuE                     | [solution](./src/flatten/flatten.ts)      |
-| Throttle        | https://lnkd.in/g-528va2                     | [solution](./src/throttle/throttle.ts)    |
-| Promise.all     | https://lnkd.in/gHxEydem                     | [solution](./src/promise-all/promise-all.ts)|
-| Deep Clone      | https://lnkd.in/g5Bn2wMV                     | [solution](./src/deep-clone/deep-clone.ts)|
-| Event Emitter   | https://lnkd.in/gnfc3WtW                     | [solution](./src/event-emitter/event-emitter.ts)|
+| Debounce        | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/debounce)                    | [solution](./src/debounce/debounce.ts)    |
+| Classnames      | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/classnames)                   | [solution](./src/classnames/classnames.ts)|
+| Flatten         | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/flatten)                   | [solution](./src/flatten/flatten.ts)      |
+| Throttle        | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/throttle)                     | [solution](./src/throttle/throttle.ts)    |
+| Promise.all     | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/promise-all)                    | [solution](./src/promise-all/promise-all.ts)|
+| Deep Clone      | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/deep-clone)              | [solution](./src/deep-clone/deep-clone.ts)|
+| Event Emitter   | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/event-emitter)                    | [solution](./src/event-emitter/event-emitter.ts)|
 | Map Async Limit | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/map-async-limit)     | [solution](./src/map-async-limit/map-async-limit.ts)                  |
 | Deep Equal      | https://lnkd.in/gq4psMYF                     |                                           |
 | Memoize         | https://lnkd.in/gWHM-ku9                     |                                           |
