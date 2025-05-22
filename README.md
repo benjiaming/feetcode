@@ -26,7 +26,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:7330824884316504066/:
 | Promise.all     | https://lnkd.in/gHxEydem                     | [solution](./src/promise-all/promise-all.ts)|
 | Deep Clone      | https://lnkd.in/g5Bn2wMV                     | [solution](./src/deep-clone/deep-clone.ts)|
 | Event Emitter   | https://lnkd.in/gnfc3WtW                     | [solution](./src/event-emitter/event-emitter.ts)|
-| Map Async Limit | https://lnkd.in/gMtk8qrq                     |                                           |
+| Map Async Limit | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/map-async-limit)     | [solution](./src/map-async-limit/map-async-limit.ts)                  |
 | Deep Equal      | https://lnkd.in/gq4psMYF                     |                                           |
 | Memoize         | https://lnkd.in/gWHM-ku9                     |                                           |
 | Curry           | https://lnkd.in/g48WfADC                     |                                           |
