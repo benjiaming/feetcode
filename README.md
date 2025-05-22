@@ -48,4 +48,4 @@ Adapted from https://www.linkedin.com/feed/update/urn:li:activity:73308248843165
 
 Run: `npx bun src/debounce/debounce-demo.ts`
 
-Test: `npx jest`
+Test: `npm test`
