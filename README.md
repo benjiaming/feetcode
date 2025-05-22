@@ -29,7 +29,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:7330824884316504066/:
 | Map Async Limit | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/map-async-limit)     | [solution](./src/map-async-limit/map-async-limit.ts)                  |
 | Deep Equal      | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/deep-equal)  | [solution](./src/deep-equal/deep-equal.ts)
 | Memoize         | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/memoize)  | [solution](./src/memoize/memoize.ts)
-| Curry           | https://lnkd.in/g48WfADC                     |                                           |
+| Curry           | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/curry)                    | [solution](./src/curry/curry.ts)
 
 
 ### Most important React questions:
