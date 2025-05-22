@@ -28,7 +28,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:7330824884316504066/:
 | Event Emitter   | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/event-emitter)                    | [solution](./src/event-emitter/event-emitter.ts)|
 | Map Async Limit | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/map-async-limit)     | [solution](./src/map-async-limit/map-async-limit.ts)                  |
 | Deep Equal      | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/deep-equal)  | [solution](./src/deep-equal/deep-equal.ts)
-| Memoize         | https://lnkd.in/gWHM-ku9                     |                                           |
+| Memoize         | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/memoize)  | [solution](./src/memoize/memoize.ts)
 | Curry           | https://lnkd.in/g48WfADC                     |                                           |
 
 
