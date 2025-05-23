@@ -17,15 +17,15 @@ export default function Todo() {
   const [showCompleted, setShowCompleted] = useState(false)
   const [lastId, setLastId] = useState(3)
 
-  const doSubmit = (e) => {
+  const doSubmit = (e: { preventDefault: () => void }) => {
     e.preventDefault()
     if (newTask === '') {
       alert('Enter task!')
       return
     }
-    setTodo(prev => [...prev, { task: newTask, status: STATUS_NEW, id: lastId }]),
+    setTodo((prev: any) => [...prev, { task: newTask, status: STATUS_NEW, id: lastId }]),
       setNewTask('')
-    setLastId(prev => prev + 1)
+    setLastId((prev: number) => prev + 1)
   }
   const Table = () => {
     return (

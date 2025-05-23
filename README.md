@@ -40,8 +40,8 @@ Adapted from https://www.linkedin.com/feed/update/urn:li:activity:73308248843165
 | Topic           | Description                                  | Solution                                  |
 |-------------------|---------------------------------------------------|-------------------|
 | Todo List         | [question](https://www.greatfrontend.com/questions/user-interface/todo-list/react?framework=react)                  | [solution](./src/react/todo/src/Todo.tsx)               |
-| Contact Form      | [question](https://lnkd.in/gtNHef6T)                  |                   |
-| Job Board         | [question](https://lnkd.in/giHeiXh2)                  |                   |
+| Contact Form      | [question](https://www.greatfrontend.com/questions/user-interface/contact-form/react?framework=react)                  | [solution](./src/react/contact-form/src/ContactForm.tsx)                  |
+| Job Board         | [question]((https://www.greatfrontend.com/interviews/study/gfe75/questions/user-interface/job-board))                  |                   |
 | Accordion         | [question](https://lnkd.in/gSZYFQA5)                  |                   |
 | Image Carousel    | [question](https://lnkd.in/gnxWuVxe)                  |                   |
 | Data Table        | [question](https://lnkd.in/gwfqzfm6)                  |                   |
