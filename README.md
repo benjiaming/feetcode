@@ -22,24 +22,24 @@ Adapted from https://www.linkedin.com/feed/update/urn:li:activity:73308248843165
 
 | Topic           | Description                                  | Solution                                  |
 |-----------------|----------------------------------------------|-------------------------------------------|
-| Debounce        | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/debounce)                    | [solution](./src/debounce/debounce.ts)    |
-| Classnames      | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/classnames)                   | [solution](./src/classnames/classnames.ts)|
-| Flatten         | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/flatten)                   | [solution](./src/flatten/flatten.ts)      |
-| Throttle        | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/throttle)                     | [solution](./src/throttle/throttle.ts)    |
-| Promise.all     | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/promise-all)                    | [solution](./src/promise-all/promise-all.ts)|
-| Deep Clone      | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/deep-clone)              | [solution](./src/deep-clone/deep-clone.ts)|
-| Event Emitter   | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/event-emitter)                    | [solution](./src/event-emitter/event-emitter.ts)|
-| Map Async Limit | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/map-async-limit)     | [solution](./src/map-async-limit/map-async-limit.ts)                  |
-| Deep Equal      | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/deep-equal)  | [solution](./src/deep-equal/deep-equal.ts)
-| Memoize         | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/memoize)  | [solution](./src/memoize/memoize.ts)
-| Curry           | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/curry)                    | [solution](./src/curry/curry.ts)
+| Debounce        | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/debounce)                    | [solution](./src/javascript/debounce/debounce.ts)    |
+| Classnames      | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/classnames)                   | [solution](./src/javascript/classnames/classnames.ts)|
+| Flatten         | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/flatten)                   | [solution](./src/javascript/flatten/flatten.ts)      |
+| Throttle        | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/throttle)                     | [solution](./src/javascript/throttle/throttle.ts)    |
+| Promise.all     | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/promise-all)                    | [solution](./src/javascript/promise-all/promise-all.ts)|
+| Deep Clone      | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/deep-clone)              | [solution](./src/javascript/deep-clone/deep-clone.ts)|
+| Event Emitter   | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/event-emitter)                    | [solution](./src/javascript/event-emitter/event-emitter.ts)|
+| Map Async Limit | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/map-async-limit)     | [solution](./src/javascript/map-async-limit/map-async-limit.ts)                  |
+| Deep Equal      | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/deep-equal)  | [solution](./src/javascript/deep-equal/deep-equal.ts)
+| Memoize         | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/memoize)  | [solution](./src/javascript/memoize/memoize.ts)
+| Curry           | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/javascript/curry)                    | [solution](./src/javascript/curry/curry.ts)
 
 
 ### Most important React questions:
 
 | Topic           | Description                                  | Solution                                  |
 |-------------------|---------------------------------------------------|-------------------|
-| Todo List         | [question](https://www.greatfrontend.com/questions/user-interface/todo-list/react?framework=react)                  |                   |
+| Todo List         | [question](https://www.greatfrontend.com/questions/user-interface/todo-list/react?framework=react)                  | [solution](./src/react/todo/src/Todo.tsx)               |
 | Contact Form      | [question](https://lnkd.in/gtNHef6T)                  |                   |
 | Job Board         | [question](https://lnkd.in/giHeiXh2)                  |                   |
 | Accordion         | [question](https://lnkd.in/gSZYFQA5)                  |                   |
