@@ -43,8 +43,8 @@ Adapted from https://www.linkedin.com/feed/update/urn:li:activity:73308248843165
 | Contact Form      | [question](https://www.greatfrontend.com/questions/user-interface/contact-form/react?framework=react)                  | [solution](./src/react/contact-form/src/ContactForm.tsx)                  |
 | Job Board         | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/user-interface/job-board)                  | [solution](./src/react/job-board/src/JobBoard.tsx)                  |
 | Accordion         | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/user-interface/accordion)                  |  [solution](./src/react/accordion/src/Accordion.tsx)                 |
-| Image Carousel    | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/user-interface/image-carousel)                  | [solution](./src/react/accordion/src/Accordion.tsx)                  |
-| Data Table        | [question](https://lnkd.in/gwfqzfm6)                  |                   |
+| Image Carousel    | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/user-interface/image-carousel)                  | [solution](./src/react/image-carousel/src/ImageCarousel.tsx)                  |
+| Data Table        | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/user-interface/data-table)                  |  [solution](./src/react/data-table/src/DataTable.tsx)                 |
 | File Explorer     | [question](https://lnkd.in/gU898hpr)                  |                   |
 | Tic-tac-toe       | [question](https://lnkd.in/gc7upPZS)                  |                   |
 | Nested Checkboxes | [question](https://lnkd.in/gfgtJHue)                  |                   |

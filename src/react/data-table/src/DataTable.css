@@ -1,0 +1,83 @@
+.data-table {
+  width: 100%;
+  max-width: 700px;
+  margin: 2rem auto;
+  border-collapse: collapse;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 16px rgba(0,0,0,0.08);
+  font-family: 'Segoe UI', Arial, sans-serif;
+  overflow: hidden;
+}
+
+.data-table caption {
+  caption-side: top;
+  font-size: 1.3rem;
+  font-weight: 600;
+  padding: 1rem 0 0.5rem 0;
+  color: #333;
+  letter-spacing: 0.5px;
+}
+
+.data-table th,
+.data-table td {
+  padding: 0.75rem 1rem;
+  text-align: left;
+}
+
+.data-table th {
+  background: #f7f9fa;
+  font-weight: 500;
+  color: #4f8cff;
+  border-bottom: 2px solid #e0e0e0;
+}
+
+.data-table tr:nth-child(even) {
+  background: #f5f8fa;
+}
+
+.data-table tr:hover {
+  background: #eaf2fb;
+}
+
+.data-table td {
+  border-bottom: 1px solid #e0e0e0;
+}
+
+select, button {
+  font-size: 1rem;
+  padding: 0.4rem 0.8rem;
+  margin: 0.5rem 0.2rem;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  background: #f7f9fa;
+  transition: border 0.2s, background 0.2s;
+}
+
+button {
+  cursor: pointer;
+  background: linear-gradient(90deg, #4f8cff 0%, #6ed0ff 100%);
+  color: #fff;
+  border: none;
+  font-weight: 600;
+}
+
+button:disabled {
+  background: #ccc;
+  color: #888;
+  cursor: not-allowed;
+}
+
+hr {
+  margin: 2rem 0 1rem 0;
+  border: none;
+  border-top: 1px solid #e0e0e0;
+}
+
+.data-table-controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.7rem;
+  margin: 1.5rem 0 0 0;
+}
