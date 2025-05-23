@@ -1,0 +1,67 @@
+.accordion {
+  width: 100%;
+  max-width: 500px;
+  margin: 2rem auto;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0 2px 16px rgba(0,0,0,0.08);
+  font-family: 'Segoe UI', Arial, sans-serif;
+  overflow: hidden;
+}
+
+.accordion > div {
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.accordionTitle {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  padding: 1rem 1.5rem;
+  font-size: 1.1rem;
+  font-weight: 500;
+  background: #f7f9fa;
+  transition: background 0.2s;
+  border: none;
+  width: 100%;
+  text-align: left;
+  outline: none;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.accordionTitle:focus-visible {
+  outline: 2px solid #4f8cff;
+  background: #eaf2fb;
+}
+
+.accordionTitle:hover {
+  background: #eaf2fb;
+}
+
+.accordion-icon {
+  display: inline-block;
+  margin-left: auto;
+  border: solid #4f8cff;
+  border-width: 0 3px 3px 0;
+  padding: 3px;
+  transform: rotate(45deg);
+  transition: transform 0.2s;
+}
+
+.accordion-icon--rotated {
+  transform: rotate(-135deg);
+}
+
+.accordion > div > div:last-child {
+  padding: 1rem 1.5rem;
+  background: #fff;
+  color: #333;
+  font-size: 1rem;
+  animation: fadeIn 0.2s;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
