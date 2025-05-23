@@ -1,26 +1,25 @@
-import { render, screen, fireEvent } from '@testing-library/react';
+import { screen, fireEvent, render } from '@testing-library/react';
 import '@testing-library/jest-dom'
 
 import Todo from './Todo';
-import React from 'react';
 
 describe('Todo App', () => {
   it('renders initial tasks', () => {
-    render(React.createElement(Todo));
+    render(<Todo />);
     expect(screen.getByText(/Walk the dog/)).toBeInTheDocument();
     expect(screen.getByText(/Water the plants/)).toBeInTheDocument();
     expect(screen.getByText(/Wash the dishes/)).toBeInTheDocument();
   });
 
   it('adds a new task', () => {
-    render(React.createElement(Todo));
+    render(<Todo />)
     fireEvent.change(screen.getByPlaceholderText(/Add your task/), { target: { value: 'Read a book' } });
     fireEvent.click(screen.getByText(/Submit/));
     expect(screen.getByText(/Read a book/)).toBeInTheDocument();
   });
 
   it('completes a task', () => {
-    render(React.createElement(Todo));
+    render(<Todo />)
     const completeButtons = screen.getAllByText(/Complete/);
     fireEvent.click(completeButtons[0]);
     
@@ -28,14 +27,14 @@ describe('Todo App', () => {
   });
 
   it('deletes a task', () => {
-    render(React.createElement(Todo));
+    render(<Todo />)
     const deleteButtons = screen.getAllByText(/Delete/);
     fireEvent.click(deleteButtons[0]);
     expect(screen.queryByText(/Walk the dog/)).not.toBeInTheDocument();
   });
 
   it('toggles show completed', () => {
-    render(React.createElement(Todo));
+    render(<Todo />)
     // Complete all tasks
     for (let i = 0; i < 3; i++) {
       fireEvent.click(screen.getAllByRole('button', { name: /Complete/} )[0]);
