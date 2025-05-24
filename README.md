@@ -49,7 +49,14 @@ Adapted from https://www.linkedin.com/feed/update/urn:li:activity:73308248843165
 | Tic-tac-toe       | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/user-interface/tic-tac-toe)                  | [solution](./src/react/tic-tac-toe/src/TicTacToe.tsx)                  |
 | Nested Checkboxes | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/user-interface/nested-checkboxes)                  | [solution](./src/react/nested-checkboxes/src/Checkboxes.tsx)                  |
 
+### Bonus question
+| Topic           | Description                                  | Solution                                  |
+|-------------------|---------------------------------------------------|-------------------|
+| Invert Binary Tree | [question](https://leetcode.com/problems/invert-binary-tree/) | [FE solution](./src/react/invert-binary-tree/src/App.tsx) |
+
+
 ## Demos
+Run `npm i` to install dependencies.
 
 ### JavaScript
 Run: `npx bun src/javascript/[question]/[question]-demo.ts`
