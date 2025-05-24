@@ -1,0 +1,35 @@
+.nested-checkboxes-root {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: #f7fafd;
+  padding: 2rem;
+  border-radius: 10px;
+  max-width: 480px;
+  margin: 2rem auto;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+}
+
+.nested-checkboxes-root label {
+  display: flex;
+  align-items: center;
+  font-size: 1rem;
+  margin-bottom: 0.25rem;
+  cursor: pointer;
+}
+
+.nested-checkboxes-root input[type="checkbox"] {
+  accent-color: #4f8cff;
+  margin-right: 0.5em;
+  width: 1.1em;
+  height: 1.1em;
+  cursor: pointer;
+}
+
+.nested-checkboxes-root > div {
+  margin-left: 0;
+}
+
+.nested-checkboxes-root .child-group {
+  margin-left: 1.5em;
+  border-left: 2px solid #eaf2fb;
+  padding-left: 0.75em;
+}
