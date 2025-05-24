@@ -8,12 +8,18 @@ interface User {
   occupation: string;
 }
 
+export interface Label {
+  label: string;
+  key: keyof User;
+}
+
 interface DataTableProps {
   users: User[];
   caption: string;
+  labels: Label[];
 }
 
-export default function DataTable({ users, caption }: DataTableProps) {
+export default function DataTable({ users, caption, labels }: DataTableProps) {
   const [perPage, setPerPage] = useState(5);
   const [index, setIndex] = useState(0);
 
@@ -33,23 +39,17 @@ export default function DataTable({ users, caption }: DataTableProps) {
         <caption>{caption}</caption>
         <thead>
           <tr>
-            {[
-              { label: 'ID', key: 'id' },
-              { label: 'Name', key: 'name' },
-              { label: 'Age', key: 'age' },
-              { label: 'Occupation', key: 'occupation' },
-            ].map(({ label, key }) => (
+            {labels.map(({ label, key }) => (
               <th key={key}>{label}</th>
             ))}
           </tr>
         </thead>
         <tbody>
-          {users.slice(index, index + perPage).map(({ id, name, age, occupation }) => (
-            <tr key={id}>
-              <td>{id}</td>
-              <td>{name}</td>
-              <td>{age}</td>
-              <td>{occupation}</td>
+          {users.slice(index, index + perPage).map(user => (
+            <tr key={user.id}>
+              {labels.map(({ key }) => (
+                <td key={key}>{user[key]}</td>
+              ))}
             </tr>
           ))}
         </tbody>

@@ -48,8 +48,23 @@ Adapted from https://www.linkedin.com/feed/update/urn:li:activity:73308248843165
 | File Explorer     | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/user-interface/file-explorer)                  | [solution](./src/react/file-explorer/src/FileExplorer.tsx)                  |
 | Tic-tac-toe       | [question](https://lnkd.in/gc7upPZS)                  |                   |
 | Nested Checkboxes | [question](https://lnkd.in/gfgtJHue)                  |                   |
-## Run demos and test
 
-Run: `npx bun src/javascript/debounce/debounce-demo.ts`
+## Demos
 
-Test: `npm test`
+### JavaScript
+Run: `npx bun src/javascript/[question]/[question]-demo.ts`
+
+e.g.`npx bun src/javascript/debounce/debounce-demo.ts`
+
+### React
+Run: `npx vite src/react/[question]`
+
+e.g. `npx vite src/react/data-table/`
+
+### Tests
+
+All tests: `npm run test`
+
+JavaScript tests: `npm run test:javascript`
+
+React tests: `npm run test:react`
