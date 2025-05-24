@@ -46,7 +46,7 @@ Adapted from https://www.linkedin.com/feed/update/urn:li:activity:73308248843165
 | Image Carousel    | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/user-interface/image-carousel)                  | [solution](./src/react/image-carousel/src/ImageCarousel.tsx)                  |
 | Data Table        | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/user-interface/data-table)                  |  [solution](./src/react/data-table/src/DataTable.tsx)                 |
 | File Explorer     | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/user-interface/file-explorer)                  | [solution](./src/react/file-explorer/src/FileExplorer.tsx)                  |
-| Tic-tac-toe       | [question](https://lnkd.in/gc7upPZS)                  |                   |
+| Tic-tac-toe       | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/user-interface/tic-tac-toe)                  | [solution](./src/react/tic-tac-toe/src/TicTacToe.tsx)                  |
 | Nested Checkboxes | [question](https://lnkd.in/gfgtJHue)                  |                   |
 
 ## Demos
