@@ -87,7 +87,14 @@ export default function App() {
         collapsible={true}
         enableLegacyTransitions={true}
         transitionDuration={500}
-      />
+        renderCustomNodeElement={({ nodeDatum, toggleNode }) => (
+          <g>
+            <circle r={15} fill="lightblue" onClick={toggleNode} />
+            <text x={40} dy=".35em">
+              Node {nodeDatum.name}
+            </text>
+          </g>
+        )} />
     </div>
   );
 }
