@@ -39,7 +39,7 @@ Adapted from https://www.linkedin.com/feed/update/urn:li:activity:73308248843165
 
 | Topic           | Description                                  | Solution                                  |
 |-------------------|---------------------------------------------------|-------------------|
-| Todo List         | [question](https://www.greatfrontend.com/questions/user-interface/todo-list/react?framework=react)                  | [solution](./src/react/todo/src/Todo.tsx)               |
+| Todo List         | [question](https://www.greatfrontend.com/questions/user-interface/todo-list/react?framework=react)                  | [state](./src/react/todo/src/Todo.tsx) [reducer](./src/react/todo/src/TodoReducer.tsx)              |
 | Contact Form      | [question](https://www.greatfrontend.com/questions/user-interface/contact-form/react?framework=react)                  | [solution](./src/react/contact-form/src/ContactForm.tsx)                  |
 | Job Board         | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/user-interface/job-board)                  | [solution](./src/react/job-board/src/JobBoard.tsx)                  |
 | Accordion         | [question](https://www.greatfrontend.com/interviews/study/gfe75/questions/user-interface/accordion)                  |  [solution](./src/react/accordion/src/Accordion.tsx)                 |
